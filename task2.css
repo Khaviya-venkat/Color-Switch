@@ -1,0 +1,81 @@
+.display{	
+	   width: 400;
+	   height: 800; 	
+   	   border: 1px solid black;
+   	   margin-right: 500px;
+}
+
+body{
+     background-color: black;
+}
+
+#secondPage{
+	color: white;
+	text-align: right;
+	font-size: 30px;
+	position: 
+}
+
+.score{
+	padding-right: 300px;
+}
+
+.startingGame {
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+  font-size: 50px;
+  font-family: Balsamiq Sans;
+  font-weight: 400;
+  margin: 250px 700px;
+}
+
+.gameOverPara{
+	color: white;
+	font-size: 50px;
+	font-family: Balsamiq Sans;
+  	font-weight: 400;
+  	margin-top: 200px;
+  	margin-left: 630px;
+}
+
+.endScore{
+	color: white;
+	font-size: 50px;
+	font-family: Balsamiq Sans;
+  	font-weight: 400;
+  	margin-left: 650px;
+}
+
+.bestScore{
+	color: white;
+	font-size: 50px;
+	font-family: Balsamiq Sans;
+  	font-weight: 400;
+  	margin-left: 600px;
+}
+
+.newGame{
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+  font-size: 30px;
+  font-family: Balsamiq Sans;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-left: 660px;
+}
+
+.gameOver{
+	display: none;
+}
