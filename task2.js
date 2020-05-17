@@ -393,5 +393,5 @@ function endGame(){
 	thirdPage.classList.remove("gameOver");
 
 	mySound.play();
-	mySound.pause();
+	mySound.stop();
 }
